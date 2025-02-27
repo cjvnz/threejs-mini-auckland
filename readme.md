@@ -2,6 +2,8 @@
 This is a Three.js project which includes Auckland building models (modelled in Blender) and water shaders.
 
 ## Preview
+[Live Link](https://cjvnz.github.io/threejs-mini-auckland/)
+
 ![alt text](https://github.com/cjvnz/threejs-mini-auckland/blob/main/mini-auckland.jpeg?raw=true "App Preview")
 
 ## Setup
