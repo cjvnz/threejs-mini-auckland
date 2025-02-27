@@ -17,4 +17,6 @@ npm run dev
 
 # Build for production in the dist/ directory
 npm run build
+
+Note: The assets will have to be moved to a "./public/" folder to work correctly as static site.
 ```
